@@ -1,2 +1,0 @@
-# Standbox
-Created with CodeSandbox
